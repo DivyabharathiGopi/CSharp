@@ -25,3 +25,7 @@ Take 220 and 284
 Since the proper divisors of 220 add up to 284, and the proper divisors of 284 add up to 220, these numbers are amicable.
 
 It’s like two friends, where each person gives the other a gift, and those gifts add up perfectly!
+
+#Day 5 - 08/01/25 - RangeOfOddNumbers
+
+       - Generates Odd Numbers within a Range.
