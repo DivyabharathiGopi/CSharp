@@ -29,3 +29,6 @@ It’s like two friends, where each person gives the other a gift, and those gif
 #Day 5 - 08/01/25 - RangeOfOddNumbers
 
        - Generates Odd Numbers within a Range.
+
+#Day 6 - 09/01/25 -SwappingOfTwoNumbers
+
