@@ -34,3 +34,5 @@ It’s like two friends, where each person gives the other a gift, and those gif
 
 #Day 7 - 10/01/25 -SumOfDigits
 
+#Day 8 - 11/01/25 -StringConcatination
+
