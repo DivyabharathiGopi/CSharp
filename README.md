@@ -36,3 +36,8 @@ It’s like two friends, where each person gives the other a gift, and those gif
 
 #Day 8 - 11/01/25 -StringConcatination
 
+#Day 9 - 12/01/25 - SumOfMultiples 
+
+       - Sum of all 3 and 5 multiples below 100.
+
+
