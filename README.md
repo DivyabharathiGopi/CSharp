@@ -40,4 +40,6 @@ It’s like two friends, where each person gives the other a gift, and those gif
 
        - Sum of all 3 and 5 multiples below 100.
 
+#Day 10 - 13/01/25 -Reverse a Number 
+
 
