@@ -44,3 +44,5 @@ It’s like two friends, where each person gives the other a gift, and those gif
 
 #Day 11 - 14/01/25 - Sum of N number
 
+#Day 12 - 15/01/25 - Right Angle Traingle
+
