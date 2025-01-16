@@ -46,3 +46,5 @@ It’s like two friends, where each person gives the other a gift, and those gif
 
 #Day 12 - 15/01/25 - Right Angle Traingle
 
+#Day 13 - 16/01/25 - Absolute value or Double value 
+
