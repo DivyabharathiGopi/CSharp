@@ -48,3 +48,5 @@ It’s like two friends, where each person gives the other a gift, and those gif
 
 #Day 13 - 16/01/25 - Absolute value or Double value 
 
+#Day 14 - 17/01/25 - To check prime number or not
+
