@@ -50,3 +50,12 @@ It’s like two friends, where each person gives the other a gift, and those gif
 
 #Day 14 - 17/01/25 - To check prime number or not
 
+#Day 01 - 01/02/25 - QuizApp
+
+     - Creating quiz app 
+     - it will print question along with its choices
+     - then it ask user to input answer between[1-4]
+     - it will check if it is not then it will ask agin to input
+     - if it is right it will increase the score
+     - it will print the final score
+
