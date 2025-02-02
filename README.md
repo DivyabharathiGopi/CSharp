@@ -59,3 +59,29 @@ It’s like two friends, where each person gives the other a gift, and those gif
      - if it is right it will increase the score
      - it will print the final score
 
+#Day 02 - 02/02/25
+
+     Addition Test:
+     Input: 5, 3, +
+     Expected Output:
+     Enter the first number:
+     Enter the second number:
+     Choose an operation: +, -, *, /
+     Result: 8
+     Division by Zero Test:
+     
+     Input: 5, 0, /
+     Expected Output:
+     Enter the first number:
+     Enter the second number:
+     Choose an operation: +, -, *, /
+     Error: Division by zero is not allowed.
+     Invalid Operation Test:
+     
+     Input: 5, 3, %
+     Expected Output:
+     Enter the first number:
+     Enter the second number:
+     Choose an operation: +, -, *, /
+     Invalid operation. Please choose +, -, *, or /.
+
