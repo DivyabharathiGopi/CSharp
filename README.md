@@ -85,3 +85,19 @@ It’s like two friends, where each person gives the other a gift, and those gif
      Choose an operation: +, -, *, /
      Invalid operation. Please choose +, -, *, or /.
 
+#Day 03 - 03/03/25
+
+     Declare and initialize a 3x3 two-dimensional array with the following values:
+     
+     1 2 3
+     4 5 6
+     7 8 9
+     
+     - Calculate the sum of each row in the array.
+     - Print the sum of each row to the console.
+     
+     result:
+     6
+     15
+     24
+
