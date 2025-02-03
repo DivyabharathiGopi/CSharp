@@ -59,7 +59,7 @@ It’s like two friends, where each person gives the other a gift, and those gif
      - if it is right it will increase the score
      - it will print the final score
 
-#Day 02 - 02/02/25
+#Day 02 - 02/02/25 - SimpleCalculator
 
      Addition Test:
      Input: 5, 3, +
@@ -85,7 +85,7 @@ It’s like two friends, where each person gives the other a gift, and those gif
      Choose an operation: +, -, *, /
      Invalid operation. Please choose +, -, *, or /.
 
-#Day 03 - 03/03/25
+#Day 03 - 03/03/25 - PrintRowSums
 
      Declare and initialize a 3x3 two-dimensional array with the following values:
      
