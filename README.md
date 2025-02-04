@@ -101,3 +101,12 @@ It’s like two friends, where each person gives the other a gift, and those gif
      15
      24
 
+#Day 04 - 04/02/25 - Calculate Average Temperature
+
+     - Declare a method CalculateAverage that takes an array of doubles as a parameter.
+     - Implement the method to calculate the average of the temperatures in the array.
+     - Declare a method PrintAverage that takes an array of doubles as a parameter.
+     - Implement the method to call CalculateAverage and print the result to the console.
+     
+     The result of execution for the default string should be:
+     "The average temperature is: 23.5"
