@@ -1,0 +1,14 @@
+/Users/di20528273/Desktop/CSarp/QuestApp/bin/Debug/net8.0/QuestApp
+/Users/di20528273/Desktop/CSarp/QuestApp/bin/Debug/net8.0/QuestApp.deps.json
+/Users/di20528273/Desktop/CSarp/QuestApp/bin/Debug/net8.0/QuestApp.runtimeconfig.json
+/Users/di20528273/Desktop/CSarp/QuestApp/bin/Debug/net8.0/QuestApp.dll
+/Users/di20528273/Desktop/CSarp/QuestApp/bin/Debug/net8.0/QuestApp.pdb
+/Users/di20528273/Desktop/CSarp/QuestApp/obj/Debug/net8.0/QuestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/di20528273/Desktop/CSarp/QuestApp/obj/Debug/net8.0/QuestApp.AssemblyInfoInputs.cache
+/Users/di20528273/Desktop/CSarp/QuestApp/obj/Debug/net8.0/QuestApp.AssemblyInfo.cs
+/Users/di20528273/Desktop/CSarp/QuestApp/obj/Debug/net8.0/QuestApp.csproj.CoreCompileInputs.cache
+/Users/di20528273/Desktop/CSarp/QuestApp/obj/Debug/net8.0/QuestApp.dll
+/Users/di20528273/Desktop/CSarp/QuestApp/obj/Debug/net8.0/refint/QuestApp.dll
+/Users/di20528273/Desktop/CSarp/QuestApp/obj/Debug/net8.0/QuestApp.pdb
+/Users/di20528273/Desktop/CSarp/QuestApp/obj/Debug/net8.0/QuestApp.genruntimeconfig.cache
+/Users/di20528273/Desktop/CSarp/QuestApp/obj/Debug/net8.0/ref/QuestApp.dll
