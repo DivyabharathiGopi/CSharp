@@ -124,3 +124,7 @@ It’s like two friends, where each person gives the other a gift, and those gif
      
      The result of execution for the default string should be:
      "Hello, my name is John and I am 30 years old."
+
+#Day 06 - 06/02/2025 - QuestApp 
+
+     - Quiz Console Application
