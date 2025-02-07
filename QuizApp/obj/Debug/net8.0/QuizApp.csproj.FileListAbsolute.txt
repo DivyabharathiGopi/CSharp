@@ -1,0 +1,14 @@
+/Users/di20528273/Desktop/CSarp/QuizApp/obj/Debug/net8.0/QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/di20528273/Desktop/CSarp/QuizApp/obj/Debug/net8.0/QuizApp.AssemblyInfoInputs.cache
+/Users/di20528273/Desktop/CSarp/QuizApp/obj/Debug/net8.0/QuizApp.AssemblyInfo.cs
+/Users/di20528273/Desktop/CSarp/QuizApp/obj/Debug/net8.0/QuizApp.csproj.CoreCompileInputs.cache
+/Users/di20528273/Desktop/CSarp/QuizApp/bin/Debug/net8.0/QuizApp
+/Users/di20528273/Desktop/CSarp/QuizApp/bin/Debug/net8.0/QuizApp.deps.json
+/Users/di20528273/Desktop/CSarp/QuizApp/bin/Debug/net8.0/QuizApp.runtimeconfig.json
+/Users/di20528273/Desktop/CSarp/QuizApp/bin/Debug/net8.0/QuizApp.dll
+/Users/di20528273/Desktop/CSarp/QuizApp/bin/Debug/net8.0/QuizApp.pdb
+/Users/di20528273/Desktop/CSarp/QuizApp/obj/Debug/net8.0/QuizApp.dll
+/Users/di20528273/Desktop/CSarp/QuizApp/obj/Debug/net8.0/refint/QuizApp.dll
+/Users/di20528273/Desktop/CSarp/QuizApp/obj/Debug/net8.0/QuizApp.pdb
+/Users/di20528273/Desktop/CSarp/QuizApp/obj/Debug/net8.0/QuizApp.genruntimeconfig.cache
+/Users/di20528273/Desktop/CSarp/QuizApp/obj/Debug/net8.0/ref/QuizApp.dll
