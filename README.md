@@ -128,3 +128,5 @@ It’s like two friends, where each person gives the other a gift, and those gif
 #Day 06 - 06/02/2025 - QuestApp 
 
      - Quiz Console Application
+
+#Day 07 - 07/02/2025 - QuizApp
