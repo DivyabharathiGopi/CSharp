@@ -130,3 +130,6 @@ It’s like two friends, where each person gives the other a gift, and those gif
      - Quiz Console Application
 
 #Day 07 - 07/02/2025 - QuizApp
+
+
+#Day 08 - 08/02/2025 - PatternProgram
