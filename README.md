@@ -125,14 +125,19 @@ It’s like two friends, where each person gives the other a gift, and those gif
      The result of execution for the default string should be:
      "Hello, my name is John and I am 30 years old."
 
-#Day 06 - 06/02/2025 - QuestApp 
+#Day 06 - 06/02/25 - QuestApp 
 
      - Quiz Console Application
 
-#Day 07 - 07/02/2025 - QuizApp
+#Day 07 - 07/02/25 - QuizApp
 
-#Day 08 - 08/02/2025 - PatternsPrograms
+#Day 08 - 08/02/25 - PatternsPrograms
 
 #Day 09 - 09/02/25 - SimpleList
 
      - Creating a simple list and iterating the list.
+
+#Day 10 - 10/02/25 - AnyMethodOnList
+
+     - Create a list of integers with values { 1, 6, 3 }. Use the Any method to check if any element in the list is greater than 5, and print "True" or "False" based on the result.
+     - The result of execution for the default list should be: "True"
