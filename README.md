@@ -131,5 +131,8 @@ It’s like two friends, where each person gives the other a gift, and those gif
 
 #Day 07 - 07/02/2025 - QuizApp
 
+#Day 08 - 08/02/2025 - PatternsPrograms
 
-#Day 08 - 08/02/2025 - PatternProgram
+#Day 09 - 09/02/25 - SimpleList
+
+     - Creating a simple list and iterating the list.
