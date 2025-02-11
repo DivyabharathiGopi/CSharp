@@ -142,7 +142,7 @@ It’s like two friends, where each person gives the other a gift, and those gif
      - Create a list of integers with values { 1, 6, 3 }. Use the Any method to check if any element in the list is greater than 5, and print "True" or "False" based on the result.
      - The result of execution for the default list should be: "True"
 
-#Day 11 - 11/02/25
+#Day 11 - 11/02/25 - PropertyListProgram
 
      - Create a class and properties - Product 
      - In the main class creating a list of product obj and adding the data.
