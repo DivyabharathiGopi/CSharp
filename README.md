@@ -148,6 +148,6 @@ It’s like two friends, where each person gives the other a gift, and those gif
      - In the main class creating a list of product obj and adding the data.
      - Iteration over the list
 
-#Day 12 - 12/02/25 - TryCatch
+#Day 12 - 12/02/25 - TryCatchFinally
 
-     - Simple try, catch program.
+     - Simple try, catch, finally keyword program.
