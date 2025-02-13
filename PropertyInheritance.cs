@@ -37,7 +37,7 @@ public class Person
 public class Employee : Person
 {
     // Additional property for EmployeeId specific to the Employee class
-    public int EmployeeId { get; set; }
+    public int EmployeeId { get; private set; }
 
     // Constructor for Employee class, calling the base class constructor to initialize Name and Age
     // It also initializes EmployeeId and prints it to the console
