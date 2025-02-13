@@ -181,16 +181,16 @@ It’s like two friends, where each person gives the other a gift, and those gif
 
 Day 14 - 14/02/25 - PropertyInheritance
 
-Base Class (Person):
+Person Class:
 
-Properties: The Person class has two properties, Name and Age, which are initialized through the constructor.
-Method: It includes a DisplayInfo() method to display the Name and Age properties.
-Derived Class (Employee):
+Contains properties Name and Age that represent a person.
+Has a constructor to initialize these properties and a method DisplayPersonInfo() to print them.
+Employee Class:
 
-Properties: The Employee class, which inherits from Person, adds an additional property EmployeeId.
-Constructor: It calls the Person constructor (using the base keyword) to initialize the inherited Name and Age properties, while also initializing EmployeeId.
-DisplayInfo: The Employee class inherits the DisplayInfo() method from the Person class, which allows it to display the Name and Age. In this case, it also prints the EmployeeId.
-Program Execution:
+Inherits from the Person class and adds an EmployeeId property.
+Its constructor calls the base class constructor to initialize Name and Age and also sets the EmployeeId.
+Contains a method DisplayEmployeeInfo() to display the EmployeeId and call the base class method DisplayPersonInfo() to display the Name and Age.
 
-An object of the Employee class is created, passing the EmployeeId, Name, and Age parameters to the constructor.
-The DisplayInfo() method is called on the Employee object, which displays the Name, Age, and EmployeeId.
+Output:
+When an Employee object is created, it displays the EmployeeId, Name, and Age.
+Example output for EmployeeId = 1, Name = "Divya", and Age = 23:
