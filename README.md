@@ -170,3 +170,11 @@ It’s like two friends, where each person gives the other a gift, and those gif
           - Example output for no exception: "2"
           - Example output for FormatException: "Invalid format."
           - Example output for IndexOutOfRangeException: "Index out of range."
+
+#Day 14 - 14/02/25 - Inheritance
+
+     - Define a base class Animal with a MakeSound method. Then, create a derived class Dog that overrides the MakeSound method. 
+     - Use the base keyword to call the base class method within the derived class method. Print the sounds to the console.
+     
+     The result of execution should be:
+     "Animal sound" "Dog barks"
