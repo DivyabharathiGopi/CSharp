@@ -178,3 +178,19 @@ It’s like two friends, where each person gives the other a gift, and those gif
      
      The result of execution should be:
      "Animal sound" "Dog barks"
+
+Day 14 - 14/02/25 - PropertyInheritance
+
+Base Class (Person):
+
+Properties: The Person class has two properties, Name and Age, which are initialized through the constructor.
+Method: It includes a DisplayInfo() method to display the Name and Age properties.
+Derived Class (Employee):
+
+Properties: The Employee class, which inherits from Person, adds an additional property EmployeeId.
+Constructor: It calls the Person constructor (using the base keyword) to initialize the inherited Name and Age properties, while also initializing EmployeeId.
+DisplayInfo: The Employee class inherits the DisplayInfo() method from the Person class, which allows it to display the Name and Age. In this case, it also prints the EmployeeId.
+Program Execution:
+
+An object of the Employee class is created, passing the EmployeeId, Name, and Age parameters to the constructor.
+The DisplayInfo() method is called on the Employee object, which displays the Name, Age, and EmployeeId.
