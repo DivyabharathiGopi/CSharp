@@ -198,3 +198,7 @@ Day 14 - 14/02/25 - SimpleInterface
      - Interface: IAnimal defines a contract for the MakeSound() and Eat() methods, which must be implemented by any class that uses the interface.
      - Polymorphism: By using the same method names (MakeSound() and Eat()), the program demonstrates polymorphism. Each class (Dog and Cat) provides its own implementation of these methods.
      - Object-Oriented Programming (OOP): The program uses classes, objects, and inheritance to organize the behavior of different animals in a clean and maintainable way.
+
+#Day 15 - 15/02/25 - PaymentProcessingApp
+
+     - This program demonstrates a **payment processing system** where different payment methods (Credit Card, PayPal, Bank Transfer) are handled through the **Dependency Injection (DI)** pattern. The `PaymentService` class delegates payment processing tasks to different processors that implement the `IPaymentProcessor` interface, allowing easy extension and flexibility. By using DI, new payment methods can be added without modifying the core `PaymentService` class, promoting scalability and maintainability.
