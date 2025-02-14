@@ -181,16 +181,20 @@ It’s like two friends, where each person gives the other a gift, and those gif
 
 Day 14 - 14/02/25 - PropertyInheritance
 
-Person Class:
+     - Person Class:
+          - Contains properties Name and Age that represent a person.
+          - Has a constructor to initialize these properties and a method DisplayPersonInfo() to print them.
+     - Employee Class:
+          - Inherits from the Person class and adds an EmployeeId property.
+          - Its constructor calls the base class constructor to initialize Name and Age and also sets the EmployeeId.
+          - Contains a method DisplayEmployeeInfo() to display the EmployeeId and call the base class method DisplayPersonInfo() to display the Name and Age.
 
-Contains properties Name and Age that represent a person.
-Has a constructor to initialize these properties and a method DisplayPersonInfo() to print them.
-Employee Class:
+     - Output:
+          - When an Employee object is created, it displays the EmployeeId, Name, and Age.
+          - Example output for EmployeeId = 1, Name = "Divya", and Age = 23:
 
-Inherits from the Person class and adds an EmployeeId property.
-Its constructor calls the base class constructor to initialize Name and Age and also sets the EmployeeId.
-Contains a method DisplayEmployeeInfo() to display the EmployeeId and call the base class method DisplayPersonInfo() to display the Name and Age.
+Day 14 - 14/02/25 - SimpleInterface
 
-Output:
-When an Employee object is created, it displays the EmployeeId, Name, and Age.
-Example output for EmployeeId = 1, Name = "Divya", and Age = 23:
+     - Interface: IAnimal defines a contract for the MakeSound() and Eat() methods, which must be implemented by any class that uses the interface.
+     - Polymorphism: By using the same method names (MakeSound() and Eat()), the program demonstrates polymorphism. Each class (Dog and Cat) provides its own implementation of these methods.
+     - Object-Oriented Programming (OOP): The program uses classes, objects, and inheritance to organize the behavior of different animals in a clean and maintainable way.
