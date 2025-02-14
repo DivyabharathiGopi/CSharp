@@ -179,7 +179,7 @@ It’s like two friends, where each person gives the other a gift, and those gif
      The result of execution should be:
      "Animal sound" "Dog barks"
 
-Day 14 - 14/02/25 - PropertyInheritance
+#Day 14 - 14/02/25 - PropertyInheritance
 
      - Person Class:
           - Contains properties Name and Age that represent a person.
@@ -193,7 +193,7 @@ Day 14 - 14/02/25 - PropertyInheritance
           - When an Employee object is created, it displays the EmployeeId, Name, and Age.
           - Example output for EmployeeId = 1, Name = "Divya", and Age = 23:
 
-Day 14 - 14/02/25 - SimpleInterface
+#Day 14 - 14/02/25 - SimpleInterface
 
      - Interface: IAnimal defines a contract for the MakeSound() and Eat() methods, which must be implemented by any class that uses the interface.
      - Polymorphism: By using the same method names (MakeSound() and Eat()), the program demonstrates polymorphism. Each class (Dog and Cat) provides its own implementation of these methods.
