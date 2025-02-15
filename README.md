@@ -202,3 +202,7 @@ It’s like two friends, where each person gives the other a gift, and those gif
 #Day 15 - 15/02/25 - PaymentProcessingApp
 
      - This program demonstrates a **payment processing system** where different payment methods (Credit Card, PayPal, Bank Transfer) are handled through the **Dependency Injection (DI)** pattern. The `PaymentService` class delegates payment processing tasks to different processors that implement the `IPaymentProcessor` interface, allowing easy extension and flexibility. By using DI, new payment methods can be added without modifying the core `PaymentService` class, promoting scalability and maintainability.
+
+#Day 16 - 16/02/25 - ConstructorDI
+
+This program demonstrates a building process using two tools, **Hammer** and **Saw**, with **dependency injection**. The `BuildService` class receives these tools through its constructor and uses them to perform the building task. Each tool has a `Use` method to simulate its action (hammering and sawing). The program shows how to decouple the tool usage from the service, making the code flexible and easy to extend.
