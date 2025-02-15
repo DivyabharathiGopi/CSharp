@@ -210,3 +210,7 @@ This program demonstrates a building process using two tools, **Hammer** and **S
 #Day 16 - 16/02/25 - SetterDI
 
 This program demonstrates setter injection in dependency injection. It simulates a building process using two tools: Hammer and Saw. The BuildService class is injected with these tools through public properties (Hammer and Saw) after the object is created. The Build() method in BuildService uses both tools to perform actions (hammering nails and sawing wood), then prints "Build!" to indicate the completion of the task. This approach allows flexibility in providing the dependencies after object creation.
+
+#Day 16 - 16/02/25 - InterfaceDI
+
+This program uses **setter injection** to manage dependencies in the `BuildService` class. It injects a **Hammer** and **Saw** into `BuildService` using setter methods. The `Build()` method then simulates building by using these tools, printing actions like "Hammering nails" and "Sawing wood" to the console. This approach promotes flexibility and decoupling by allowing tools to be set after object creation.
