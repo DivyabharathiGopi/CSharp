@@ -234,3 +234,20 @@ Creating and Modifying Point Objects:
 p1: An instance of Point is created with X=10 and Y=20. The Display method is called to show the coordinates.
 p2: An uninitialized Point is created, and the X and Y values are set manually (X=30, Y=40). Then, the Display method is called to print p2's coordinates.
 p3: A copy of p1 is created, and then the Y value of p3 is modified to 50. The modified p3 is displayed.
+
+#Day 17 - 17/02/25 - DistanceBTWTwoPoints
+
+Point Struct:
+The Point struct contains two fields X and Y to represent a point in 2D space.
+The constructor initializes these fields with provided values.
+
+Distance Method:
+The Distance method calculates the Euclidean distance between two points using the formula sqrt((x2 - x1)^2 + (y2 - y1)^2).
+
+Display Method:
+The Display method simply prints the coordinates of the point in the format Point: x, y.
+
+Main Method:
+Creates two points p1 and p2.
+Displays their coordinates.
+Calculates and displays the distance between p1 and p2.
