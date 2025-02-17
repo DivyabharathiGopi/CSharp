@@ -218,3 +218,19 @@ This program uses **setter injection** to manage dependencies in the `BuildServi
 #Day 17 - 17/02/25 - PropertyStruct
 
 The program defines a `Point` struct with two properties, `X` and `Y`, representing the coordinates of a point. The struct includes a constructor that initializes these properties with specific values and a `Display` method to output the point's coordinates in the format "Point: X,Y". In the `Main` method, an instance of the `Point` struct is created with the coordinates (10, 20), and the `Display` method is called to print these coordinates to the console. The program demonstrates the use of structs, properties, constructors, and methods in C#.
+
+#Day 17 - 17/02/25 - FiledStruct
+
+FiledStruct Class:
+This class contains the Main method, which is the starting point of the program.
+It demonstrates the creation and manipulation of Point structs.
+
+Point Struct:
+The Point struct has two fields: X and Y, which represent the coordinates of the point.
+A constructor is defined to initialize these fields when creating a Point object.
+The Display method prints the X and Y values to the console.
+
+Creating and Modifying Point Objects:
+p1: An instance of Point is created with X=10 and Y=20. The Display method is called to show the coordinates.
+p2: An uninitialized Point is created, and the X and Y values are set manually (X=30, Y=40). Then, the Display method is called to print p2's coordinates.
+p3: A copy of p1 is created, and then the Y value of p3 is modified to 50. The modified p3 is displayed.
