@@ -251,3 +251,15 @@ Main Method:
 Creates two points p1 and p2.
 Displays their coordinates.
 Calculates and displays the distance between p1 and p2.
+
+#Day 17 - 17/02/25 - ValueAndReferenceType
+
+Value Type (Struct) - Point:
+Point is a struct, which is a value type in C#.
+When p1 is assigned to p2, it copies the value of p1 into p2. Therefore, modifying p2 does not affect p1, since they are independent of each other.
+After modifying p2.X = 60, p1 still holds its original value (10, 20) while p2 changes to (60, 20).
+
+Reference Type (Class) - PointClass:
+PointClass is a class, which is a reference type in C#.
+When pc1 is assigned to pc2, both variables refer to the same object in memory. Thus, modifying pc2.X = 50 also changes the value of pc1, because both variables point to the same instance of PointClass.
+After modifying pc2.X, both pc1 and pc2 now display (50, 40) because they are the same object in memory.
