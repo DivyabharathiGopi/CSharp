@@ -214,3 +214,7 @@ This program demonstrates setter injection in dependency injection. It simulates
 #Day 16 - 16/02/25 - InterfaceDI
 
 This program uses **setter injection** to manage dependencies in the `BuildService` class. It injects a **Hammer** and **Saw** into `BuildService` using setter methods. The `Build()` method then simulates building by using these tools, printing actions like "Hammering nails" and "Sawing wood" to the console. This approach promotes flexibility and decoupling by allowing tools to be set after object creation.
+
+#Day 17 - 17/02/25 - PropertyStruct
+
+The program defines a `Point` struct with two properties, `X` and `Y`, representing the coordinates of a point. The struct includes a constructor that initializes these properties with specific values and a `Display` method to output the point's coordinates in the format "Point: X,Y". In the `Main` method, an instance of the `Point` struct is created with the coordinates (10, 20), and the `Display` method is called to print these coordinates to the console. The program demonstrates the use of structs, properties, constructors, and methods in C#.
