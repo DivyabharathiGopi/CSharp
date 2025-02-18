@@ -263,3 +263,25 @@ Reference Type (Class) - PointClass:
 PointClass is a class, which is a reference type in C#.
 When pc1 is assigned to pc2, both variables refer to the same object in memory. Thus, modifying pc2.X = 50 also changes the value of pc1, because both variables point to the same instance of PointClass.
 After modifying pc2.X, both pc1 and pc2 now display (50, 40) because they are the same object in memory.
+
+#Day 18 - 18/02/25 - DateTimeMath
+
+Declare a struct Event with the following members:
+- A DateTime field called StartDate.
+- A DateTime field called EndDate.
+- A method double GetDuration() that returns the duration of the event in days.
+- A method bool IsOverlapping(Event otherEvent) that returns true if the event overlaps with another event.
+
+Main class:
+- Creates two Event instances with different start and end dates.
+- Prints the duration of each event.
+- Checks and prints whether the two events overlap.
+
+The result of execution should be the duration of each event and whether they overlap printed to the console.
+Example:
+
+For an event starting on 2024-07-01 and ending on 2024-07-10, and another event starting on 2024-07-05 and ending on 2024-07-15, the output should be:
+
+Event 1 Duration: 9 days
+Event 2 Duration: 10 days
+Events Overlap: True
