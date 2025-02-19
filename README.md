@@ -285,3 +285,12 @@ For an event starting on 2024-07-01 and ending on 2024-07-10, and another event 
 Event 1 Duration: 9 days
 Event 2 Duration: 10 days
 Events Overlap: True
+
+#Day 19 = 19/02/25 - ReversingString
+
+- Prompt for input: Asking the user to enter a string.
+- Read input: Storing the user input in the variable str.
+- Initialize reversed string: Preparing an empty string (reversedStr) to hold the reversed characters.
+- Loop through string backwards: We start at the last index (str.Length - 1) and loop until the first index (0).
+- Build the reversed string: During each iteration, the current character is appended to reversedStr.
+- Print the reversed string: Finally, the reversed string is printed to the console.
