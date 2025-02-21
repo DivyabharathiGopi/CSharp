@@ -294,3 +294,5 @@ Events Overlap: True
 - Loop through string backwards: We start at the last index (str.Length - 1) and loop until the first index (0).
 - Build the reversed string: During each iteration, the current character is appended to reversedStr.
 - Print the reversed string: Finally, the reversed string is printed to the console.
+
+#Day 20 - 20/02/25 - PalindromeString
