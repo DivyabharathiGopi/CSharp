@@ -324,3 +324,9 @@ Result:
      h-2
      r-1
      t-1
+
+#Day 22 - 23/02/25 - DuplicateString 
+
+     Enter your string
+     divyabharathi
+     divyabhrt
