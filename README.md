@@ -295,6 +295,12 @@ Events Overlap: True
 - Build the reversed string: During each iteration, the current character is appended to reversedStr.
 - Print the reversed string: Finally, the reversed string is printed to the console.
 
+Result:
+     Enter your string:
+     divyabharathi
+     
+     ihtarahbayvid
+
 #Day 20 - 21/02/25 - ReverseOrderWords
 
      - Result:
