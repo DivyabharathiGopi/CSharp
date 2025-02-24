@@ -309,4 +309,18 @@ Result:
      
      bharathi divya Hi 
 
-#Day 21 - 22/02/25 - 
+#Day 21 - 22/02/25 - CharacterCount
+
+     Result:
+     Enter your string
+     Hi Divyabharathi
+     H-1
+     i-3
+     D-1
+     v-1
+     y-1
+     a-3
+     b-1
+     h-2
+     r-1
+     t-1
