@@ -330,3 +330,14 @@ Result:
      Enter your string
      divyabharathi
      divyabhrt
+
+#Day 23 - 24/02/25 - SubString
+
+     Result:
+     Enter your string:abc
+     a
+     ab
+     abc
+     b
+     bc
+     c
